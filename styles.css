@@ -1,0 +1,9 @@
+button {
+    font-size: large;
+    text-align: center;
+}
+
+#currency {
+    color: green;
+    font-size: 20vh;
+}
