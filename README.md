@@ -2,7 +2,7 @@
 
 This is my first atempt at learning typescript because it seems much more user friendly then java script
 
-## Browsing the code
+## What I've learned about TS
 
 First install the typescript compiler via npm
 
@@ -14,3 +14,8 @@ if you ever want to edit the typescript make sure to always compile it to JS aft
 ```bash
 tsc index.ts
 ```
+or run this command in a terminal window
+```bash
+tsc --watch
+```
+which will automagically compile the ts file to js whenever you save
